@@ -1,0 +1,1 @@
+Simple Helper de console inspiré du "Formulaire DemanderValeur" mais pour la console
